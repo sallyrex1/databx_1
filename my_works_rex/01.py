@@ -9,8 +9,8 @@ print('just testing')
 
 # COMMAND ----------
 
-# use the full path not the relative or url
-%run "/Workspace/Users/rexford.osei-aboagye@cognizant.com/databx_1/my_works_rex/Utilty_NoteBook"
+# MAGIC %run "/Workspace/Users/rexford.osei-aboagye@cognizant.com/databx_1/my_works_rex/Utilty_NoteBook"
+# MAGIC
 
 # COMMAND ----------
 

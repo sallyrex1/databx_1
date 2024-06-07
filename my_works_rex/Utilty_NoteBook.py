@@ -4,4 +4,12 @@
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC
+# MAGIC -- SELECT 'Mango','Orange','Banana'
+# MAGIC SELECT 'Pie','Corn','Gaver'
+# MAGIC
+
+# COMMAND ----------
+
 
